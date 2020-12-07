@@ -1,6 +1,10 @@
 body{
 
   background: red;
+<<<<<<< HEAD
   font-size: 2em;
   margin: 20px;
+=======
+  padding: 30px;
+>>>>>>> feature-c
 }
